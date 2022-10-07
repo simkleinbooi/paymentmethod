@@ -1,0 +1,107 @@
+#phone{
+    background-color: #fff;
+    width: 300px;
+    height: 890px;
+    border-color: black;
+    border: solid 2px;
+    position: relative; left: 560px; top: 100px;
+    border-radius: 20px;
+    
+}
+#battery{
+    width: 15px;
+    position: relative; left: 830px; top: -789px;
+}
+
+#wifi{
+    width: 15px;
+    position: relative; left: 790px; top: -789px;
+}
+
+p{
+    width: 15px;
+    position: relative; left: 590px; top: -820px;
+}
+
+h1{
+   position: relative; bottom: -20px; right: 5px;
+}
+
+hr{
+    width: 250px;
+    height: 1px;
+    position: relative; top: -785px; right: 45px;
+    background-color: black;
+
+}
+.p1{
+    position: relative; top: -780px; left: 585px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#phone1{
+    background-color:red;
+    width: 80px;
+    height: 50px;
+    border: solid 0px;
+    position: relative; left: 575px; top: -750px;
+    border-radius: 20px;
+}
+
+#phone2{
+    background-color:rgb(249, 244, 244);
+    width: 80px;
+    height: 50px;
+    border: solid 1px;
+    border-color: red;
+    position: relative; left: 670px; top: -800px;
+    border-radius: 20px;
+}
+
+#phone3{
+    background-color:rgb(249, 244, 244);
+    width: 80px;
+    height: 50px;
+    border: solid 1px;
+    border-color: red;
+    position: relative; left: 769px; top: -851px;
+    border-radius: 20px;
+}
+
+.p2{
+   
+    position: relative; left: 584px; top: -820px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#qwembe{
+    width: 200px;
+    position: relative; left: 610px; top: -800px;
+}
+
+.p3{
+   color: red;
+    position: relative; left: 580px; top: -790px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p4{
+    position: relative; top: -760px; left: 580px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p5{
+    font-size: 40px; 
+    font-weight: bolder;
+    position: relative; top: -795px; left: 790px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#phone4{
+    background-color:red;
+    width: 200px;
+    height: 50px;
+    border: solid 1px;
+    position: relative; left: 600px; top: -450px;
+    border-radius: 20px;
+}
